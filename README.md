@@ -1,2 +1,2 @@
-# IBM
-Quantum Computing
+# Dynamic Optimization
+Salp Swarm Algorithm for DOP
